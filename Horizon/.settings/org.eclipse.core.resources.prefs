@@ -1,0 +1,4 @@
+eclipse.preferences.version=1
+encoding//src/my/crawler/connection/Connection.java=GBK
+encoding//src/my/spider/URL/StringSearch.java=UTF-8
+encoding//src/my/spider/fetcher/Fetcher.java=GBK
